@@ -2,6 +2,7 @@ Hi, I’m Aaron sam
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=timeandtid&hide=contribs,prs&show_icons=true&theme=synthwave">
+<br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timeandtid&layout=compact">
 I’m interested in:
 
                HTML,
