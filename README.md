@@ -1,7 +1,7 @@
 Hi, I’m Aaron sam
 
 
-<iframe src="https://github-readme-stats.vercel.app/api?username=timeandtid"></iframe>
+<img src="https://github-readme-stats.vercel.app/api?username=timeandtid">
 I’m interested in:
 
                HTML,
